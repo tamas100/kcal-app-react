@@ -10,4 +10,9 @@ root.render(
   </React.StrictMode>
 );
 
+ReactDom.render(
+  <ul><li>React alapok</li><li>Haladó React</li></ul>,
+  document.querySelector('.js-container')
+);
+
 
