@@ -46,8 +46,7 @@ export default function FoodItem({data}) {
 }
 
 
-// {
-//     id: 1691219945221, // js timestamp
+// {     
 //     foodName: 'Cooked broccoli',
 //     kcal: 35,
 //     fat: .4,
